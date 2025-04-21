@@ -18,13 +18,13 @@ I'm not able to list all of my projects here, but here are a few that I think ar
 - [Make some videos](https://github.com/aphcore/Python-Video-Generator)
 
 ### 🤖 AlchemyBot
-*Automating the most tedius action in Hypixel Skyblock*
-- A few years ago, I built a bot in a third-party scripting language to automate the tedious process of brewing potions in Hypixel Skyblock
+*Automating the most tedious action in Hypixel Skyblock*
+- A few years ago, I built a bot in a third party scripting language to automate the tedious process of brewing potions in Hypixel Skyblock
 - Improved my understanding of data storage and optimization
 - [Brew some potions](https://github.com/aphcore/alchemybot)
 
 ### 🌍 Cloudflare Turnstile Bypass
-*A quick Proof of Concept*
-- Implemented a headless browser with Puppeteer stealth to obtain numerous Cloudflare Turnstile tokens
+*A quick Proof of Concept for the Realmz.io development team*
+- Implemented a headless browser with Puppeteer stealth to obtain numerous Cloudflare Turnstile tokens per minute
 - Deobfuscated and overwrote Realmz.io's websocket method to intercept tokens and potentially redirect them to a cloud server for future usage
 - [Get some tokens](https://github.com/aphcore/Cloudflare-Turnstile-Bypass)
