@@ -1,5 +1,5 @@
-#
-####
+###
+###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Winky+Rough&weight=500&size=35&pause=1000&width=435&lines=Hi%2C+I'm+aphinqq;I+like+to+get+things+done;I+build+practical+applications;I+learn+extremely+quickly)](https://git.io/typing-svg)
 ## 👋 Hello, Digital World!
 
