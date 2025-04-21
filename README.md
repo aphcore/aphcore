@@ -13,7 +13,7 @@ I'm not able to list all of my projects here, but here are a few that I think ar
 
 ### 📷 Reddit Video Maker
 *Automating the creation of viral 60s short form content*
-- Built a Python application that will take a Reddit thread, scrape data, and create multiple 60s videos
+- Built a Python application to take a Reddit thread, scrape data, and create multiple 60s videos
 - Used Streamlabs TTS and OpenAI Whisper to generate voice-overs and automatic subtitles
 - [Make some videos](https://github.com/aphcore/Python-Video-Generator)
 
