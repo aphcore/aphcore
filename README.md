@@ -25,13 +25,14 @@ I'm not able to list all of my projects here, but here are a few that I think ar
 
 ### 🙅‍♂️ Network Level Adblocker
 *When playing a mobile game with pop-up ads doesn't let you play with network disabled*
-- Built a NodeJS proxy to filter ads and trackers.
-- Used specifically for blocking ads on mobile games that prevented playing with network disabled.
+- Built a NodeJS proxy to filter ads and trackers
+- Used specifically for blocking ads on mobile games that prevented playing with network disabled
 - Play with network enabled while blocking the domains of pop-up ads!
 - [Block some ads](https://github.com/aphcore/Network-Level-Adblock)
 
 ### 🤖 AlchemyBot
 *Automating the most tedious action in Hypixel Skyblock*
-- A few years ago, I built a bot in a third party scripting language to automate the tedious process of brewing potions in Hypixel Skyblock
+- A few years ago, I built a bot in a third party scripting language to automate the tedious process of brewing complex potions in Hypixel Skyblock
+- Implemented numerous failsafes and edge case detections
 - Improved my understanding of data storage and optimization
 - [Brew some potions](https://github.com/aphcore/alchemybot)
