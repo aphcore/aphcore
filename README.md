@@ -21,7 +21,7 @@ I'm not able to list all of my major projects publicly, but here are a few small
 *A quick Proof of Concept for the Realmz.io development team*
 - Implemented a headless browser with Puppeteer stealth to obtain numerous Cloudflare Turnstile tokens per minute
 - Deobfuscated and overwrote Realmz.io's websocket method to intercept tokens and potentially redirect them to a cloud server for future usage
-- [Get some tokens](https://github.com/aphcore/Cloudflare-Turnstile-Bypass)
+- [Get some tokens](https://github.com/aphcore/Turnstile-Token-Farmer)
 
 ### 📷 Reddit Video Maker - Python
 *Automating the creation of viral 60s short form content*
