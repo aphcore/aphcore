@@ -17,7 +17,7 @@ Projects I've only worked on for a few hours or days, solving irritating problem
 ######
 I'm not able to list all of my major projects publicly, but here are a few small ones that I think are worth mentioning:
 
-### 🌍 Cloudflare Turnstile Bypass - JavaScript
+### 🌍 Cloudflare Turnstile Token Farmer - JavaScript
 *A quick Proof of Concept for the Realmz.io development team*
 - Implemented a headless browser with Puppeteer stealth to obtain numerous Cloudflare Turnstile tokens per minute
 - Deobfuscated and overwrote Realmz.io's websocket method to intercept tokens and potentially redirect them to a cloud server for future usage
